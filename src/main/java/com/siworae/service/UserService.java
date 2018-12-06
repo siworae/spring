@@ -7,7 +7,7 @@ package com.siworae.service;
  * @Author: Administrator$
  */
 public class UserService {
-    public void test(){
-        System.out.println("userservice");
+    public void test() {
+        System.out.println("3");
     }
 }
