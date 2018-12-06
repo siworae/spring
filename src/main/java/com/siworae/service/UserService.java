@@ -9,5 +9,6 @@ package com.siworae.service;
 public class UserService {
     public void test() {
         System.out.println("3");
+        System.out.println("1");
     }
 }
