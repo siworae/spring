@@ -8,6 +8,6 @@ package com.siworae.service;
  */
 public class UserService {
     public void test(){
-        System.out.println("userservice");
+        System.out.println("1");
     }
 }
